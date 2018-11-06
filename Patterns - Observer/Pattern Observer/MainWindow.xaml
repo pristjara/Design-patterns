@@ -1,0 +1,69 @@
+﻿<Window x:Class="Pattern_Observer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Pattern_Observer"
+        mc:Ignorable="d"
+        Title="Observers" Height="450" Width="725">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <GroupBox Grid.Row="0" Header="Add new observer">
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="5" Content="Name:" />
+                <TextBox Margin="5" Name="txtName" Width="200" />
+                <Label Margin="5" Content="Min price:" />
+                <TextBox Name="txtMinPrice" Width="40" Margin="0 5" Text="30" />
+                <Label Margin="5" Content="Max price:" />
+                <TextBox Name="txtMaxPrice" Width="40" Margin="0 5" Text="40" />
+                <RadioButton Name="rbBnak" Content="Bank" VerticalAlignment="Center" Margin="5" />
+                <RadioButton Name="rbBroker" Content="Broker" VerticalAlignment="Center" Margin="5" />
+                <Button Padding="10 0" Name="btnAdd" Content="Add new" Margin="5" Click="btnAdd_Click" />
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Grid.Row="1" Header="Observer list">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="100" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Label Grid.Column="0" Content="Banks" HorizontalAlignment="Center"/>
+                <Label Grid.Column="1" Content="Brokers" HorizontalAlignment="Center"/>
+
+                <ListBox Grid.Column="0" Grid.Row="1" Margin="5" Name="listBanks" />
+                <ListBox Grid.Column="1" Grid.Row="1" Margin="5" Name="listBrokers"/>
+            </Grid>
+        </GroupBox>
+
+        <GroupBox Grid.Row="2" Header="Exchange rate">
+            <StackPanel Orientation="Horizontal">
+                <StackPanel.Resources>
+                    <Style TargetType="{x:Type Label}">
+                        <Setter Property="Margin" Value="5" />
+                    </Style>
+                </StackPanel.Resources>
+                <Label Content="%Currency% current price:" />
+                <Label Name="lblPrice"/>
+                <Button Name="btnGenerate" Content="Generate new value" Margin="5" Click="btnGenerate_Click" />
+                <Button Name="btnClear" Content="Clear" Margin="50 5 0 5" Padding="20 0" Click="btnClear_Click" />
+            </StackPanel>
+        </GroupBox>
+
+        <GroupBox Header="Result" Grid.Row="3">
+            <TextBox Name="txtOutput" AcceptsReturn="True" IsReadOnly="True"/>
+        </GroupBox>
+
+    </Grid>
+</Window>

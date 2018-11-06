@@ -1,0 +1,15 @@
+c:\users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\MainWindow.g.cs
+c:\users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\App.g.cs
+c:\users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder_MarkupCompile.cache
+c:\users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder_MarkupCompile.lref
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\bin\Debug\Patterns - Builder.exe.config
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\bin\Debug\Patterns - Builder.exe
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\bin\Debug\Patterns - Builder.pdb
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.csprojResolveAssemblyReference.cache
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\MainWindow.baml
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.g.resources
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns___Builder.Properties.Resources.resources
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.csproj.GenerateResource.Cache
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.csproj.CoreCompileInputs.cache
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.exe
+C:\Users\b4296\source\repos\Patterns - Builder\Patterns - Builder\obj\Debug\Patterns - Builder.pdb

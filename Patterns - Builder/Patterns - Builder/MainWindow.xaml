@@ -1,0 +1,27 @@
+﻿<Window x:Class="Patterns___Builder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Patterns___Builder"
+        mc:Ignorable="d"
+        Title="Builder" SizeToContent="Height" Width="525">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type ComboBox}">
+                    <Setter Property="Margin" Value="5" />
+                    <Setter Property="Width" Value="250" />
+                    <!--<Setter Property="Margin" Value="5" />-->
+                </Style>
+            </StackPanel.Resources>
+            <ComboBox Name="cmbBudget">
+                <ComboBoxItem>I have tonns of cash</ComboBoxItem>
+                <ComboBoxItem>I clean shoes for living</ComboBoxItem>
+            </ComboBox>
+            <Button Content="Build car" Name="btnBuild" Margin="5" Padding="10 0" Click="btnBuild_Click"/>
+            <Button Content="Clear" Name="btnClear" Margin="5" Padding="10 0" Click="btnClear_Click" />
+        </StackPanel>
+        <TextBox Name="txtOutput" Margin="5" Height="150" VerticalScrollBarVisibility="Visible"/>
+    </StackPanel>
+</Window>

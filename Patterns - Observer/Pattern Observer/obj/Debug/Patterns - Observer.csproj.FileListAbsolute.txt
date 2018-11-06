@@ -1,0 +1,14 @@
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\bin\Debug\Patterns - Observer.exe.config
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\bin\Debug\Patterns - Observer.exe
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\bin\Debug\Patterns - Observer.pdb
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\MainWindow.baml
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\MainWindow.g.cs
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\App.g.cs
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer_MarkupCompile.cache
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer_MarkupCompile.lref
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer.g.resources
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns_Observer.Properties.Resources.resources
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer.csproj.GenerateResource.Cache
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer.csproj.CoreCompileInputs.cache
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer.exe
+C:\Users\b4296\source\repos\Pattern Observer\Pattern Observer\obj\Debug\Patterns - Observer.pdb

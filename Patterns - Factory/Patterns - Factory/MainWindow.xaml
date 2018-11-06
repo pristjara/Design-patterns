@@ -1,0 +1,42 @@
+﻿<Window x:Class="Patterns___Factory.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Patterns___Factory"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label Margin="5" Content="Select building company: " />
+            <ComboBox Name="cmbBuilder" Margin="5" Width="200">
+                <ComboBoxItem>Alpha Constructions LTD</ComboBoxItem>
+                <ComboBoxItem>Beta Constructions LTD</ComboBoxItem>
+                <ComboBoxItem>Gamma Constructions LTD</ComboBoxItem>
+                <ComboBoxItem>Delta Constructions LTD</ComboBoxItem>
+            </ComboBox>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Margin" Value="5" />
+                    <Setter Property="Padding" Value="10 5" />
+                </Style>
+            </StackPanel.Resources>
+
+            <Button Name="btnWooden" Content="Build Wooden house" Click="btnWooden_Click" />
+            <Button Name="btnPanel" Content="Build Panel house" Click="btnPanel_Click" />
+            <Button Name="btnBrick" Content="Build Brick house" Click="btnBrick_Click" />
+            <Button Name="btnClear" Content="Clear" Click="btnClear_Click" />
+
+        </StackPanel>
+        <TextBox Name="txtOutput" Grid.Row="2" Margin="5" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" />
+    </Grid>
+</Window>

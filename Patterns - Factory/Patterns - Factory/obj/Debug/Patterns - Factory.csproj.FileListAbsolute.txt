@@ -1,0 +1,15 @@
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\bin\Debug\Patterns - Factory.exe.config
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\bin\Debug\Patterns - Factory.exe
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\bin\Debug\Patterns - Factory.pdb
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.csprojResolveAssemblyReference.cache
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\MainWindow.g.cs
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\App.g.cs
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory_MarkupCompile.cache
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory_MarkupCompile.lref
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\MainWindow.baml
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.g.resources
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns___Factory.Properties.Resources.resources
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.csproj.GenerateResource.Cache
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.csproj.CoreCompileInputs.cache
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.exe
+C:\Users\b4296\source\repos\Patterns - Factory\Patterns - Factory\obj\Debug\Patterns - Factory.pdb
