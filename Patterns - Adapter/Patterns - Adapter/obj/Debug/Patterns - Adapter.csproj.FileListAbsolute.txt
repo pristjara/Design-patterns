@@ -1,0 +1,14 @@
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\bin\Debug\Patterns - Adapter.exe.config
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\bin\Debug\Patterns - Adapter.exe
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\bin\Debug\Patterns - Adapter.pdb
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\MainWindow.g.cs
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\App.g.cs
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter_MarkupCompile.cache
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter_MarkupCompile.lref
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\MainWindow.baml
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter.g.resources
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns___Adapter.Properties.Resources.resources
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter.csproj.GenerateResource.Cache
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter.csproj.CoreCompileInputs.cache
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter.exe
+C:\Users\b4296\source\repos\Patterns - Adapter\Patterns - Adapter\obj\Debug\Patterns - Adapter.pdb
